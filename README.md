@@ -1,6 +1,7 @@
 # FirstOne
 
 ## Kick off the project
+![]()
 Add comments to note the project was started on 11/5.
 
 ## [Project 1](https://github.com/szxiaobo/FirstOne/)
